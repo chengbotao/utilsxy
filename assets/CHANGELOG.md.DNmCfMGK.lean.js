@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a1 as r}from"./chunks/framework.DFosWBzy.js";const d=JSON.parse('{"title":"CHANGELOG","description":"","frontmatter":{},"headers":[],"relativePath":"CHANGELOG.md","filePath":"CHANGELOG.md"}'),o={name:"CHANGELOG.md"},l=r("",13),i=[l];function n(h,s,g,c,b,u){return a(),t("div",null,i)}const p=e(o,[["render",n]]);export{d as __pageData,p as default};
